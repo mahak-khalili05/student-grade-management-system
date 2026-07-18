@@ -13,7 +13,7 @@ A simple Python application for managing student grades.
 
 ## 🛠️ Built With
 
-- Python
+- Python 3
 
 ## 👩‍💻 Author
 
