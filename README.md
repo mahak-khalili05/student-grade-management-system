@@ -1,2 +1,20 @@
-# student-grade-management-system
-A Python program for managing student grades and calculating averages.
+# 🎓 Student Grade Management System
+
+A simple Python application for managing student grades.
+
+## ✨ Features
+
+- Add students
+- Input three scores
+- Validate scores (0–20)
+- Calculate average
+- Pass/Fail result
+- Show all students
+
+## 🛠️ Built With
+
+- Python
+
+## 👩‍💻 Author
+
+Mahak Khalili
